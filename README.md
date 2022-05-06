@@ -8,3 +8,4 @@ A harder version of Rock Paper Scissors!
 ---
 ### Resources
 - [FontAwesome - Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free)
+- [Google Fonts](https://fonts.google.com/)
