@@ -1,6 +1,10 @@
-#Rock Paper Scissors Lizard Spock
-A harder version of Rock Paper Scissors!
+# Rock Paper Scissors Lizard Spock
+
+A harder version of Rock Paper Scissors! 
+See [Big Bang Theory - RSPLS](https://www.youtube.com/watch?v=405Nh2H4Ucg) for more information on how the game works.
+
 ---
+
 ## [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://zerotomastery.io/courses/javascript-projects/)
 ### Taught by:-
 - [Jacinto Wong](https://zerotomastery.io/about/instructor/jacinto-wong)
