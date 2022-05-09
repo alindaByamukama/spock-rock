@@ -15,3 +15,4 @@ See [Big Bang Theory - RSPLS](https://www.youtube.com/watch?v=405Nh2H4Ucg) for m
 - [Google Fonts](https://fonts.google.com/)
 - [W3Scools - Switch](https://www.w3schools.com/js/js_switch.asp)
 - [Confetti.js Library](https://www.cssscript.com/confetti-falling-animation/)
+- [Mozilla - ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
