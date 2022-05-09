@@ -14,3 +14,4 @@ See [Big Bang Theory - RSPLS](https://www.youtube.com/watch?v=405Nh2H4Ucg) for m
 - [FontAwesome - Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free)
 - [Google Fonts](https://fonts.google.com/)
 - [W3Scools - Switch](https://www.w3schools.com/js/js_switch.asp)
+- [Confetti.js Library](https://www.cssscript.com/confetti-falling-animation/)
